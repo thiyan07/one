@@ -1,6 +1,6 @@
 img{
     height: 150px;
-    usee-select:none;
+    user-select:none;
     pointer-events:none;
     width: 75px;
     float:right;
